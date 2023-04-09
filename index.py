@@ -9,7 +9,7 @@ def curve():
 	for i in range(10000):
 
 		# Defining step by step curve motion
-		pen.right(100)
+		pen.left(100)
 		pen.forward(100)
 
 # Defining method to draw a full heart
