@@ -6,7 +6,7 @@ pen = turtle.Turtle()
 
 # Defining a method to draw curve
 def curve():
-	for i in range(999999999):
+	for i in range(10000):
 
 		# Defining step by step curve motion
 		pen.right(100)
